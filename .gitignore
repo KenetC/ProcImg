@@ -1,4 +1,13 @@
 /Teorica/** 
 /Bibliografia/** 
 /Labos/Imagenes_para_contraste/** 
-/Labos/.ipynb_checkpoints/**
+**.zip
+**.ipynb_checkpoints
+**.png
+**.jpg
+**.aux
+**.fls
+**.tex
+**.synctex.gz
+**.log
+**.fdb_latexmk
